@@ -1,0 +1,1 @@
+1. Application az-github-fastapi-edp-2 has been successfully deployed!!
